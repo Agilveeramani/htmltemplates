@@ -1,0 +1,30 @@
+* {
+    box-sizing: border-box;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.nds {
+    /* background-color: rgba(59, 65, 59, 0.11); */
+}
+.bgw {
+    background-image: url(../images/bgimg.webp);
+    background-size: cover;
+    background-attachment: local;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+.nice {
+    font-family: cursive;    
+}
+a:hover {
+ background-color: burlywood;
+}
+.inp {
+    background-color: rgb(231, 218, 103);
+}
+.adim {
+    background-image: url(../images/bg2.jpg);
+    background-size: cover;
+    background-attachment: local;
+    background-repeat: no-repeat;
+    background-position: center;
+}
